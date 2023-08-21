@@ -1,1 +1,0 @@
-# lpjk-ska.github.io
