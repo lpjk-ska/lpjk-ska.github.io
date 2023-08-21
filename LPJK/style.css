@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse;
+    font-size: 18pt;
+    display: flex;
+    justify-content: center;
+}
+
+table tbody tr:nth-child(odd) td {
+    background-color: #e2e2e2;
+}
+
+.table-responsive{
+    overflow: auto;
+}
